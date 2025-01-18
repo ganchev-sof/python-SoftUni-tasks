@@ -7,5 +7,5 @@ Online judge system - https://judge.softuni.org/
 
 Software University webise - https://softuni.org/
 
-!(https://user-images.githubusercontent.com/68993494/185683680-bcfefe65-88fb-4192-b0b2-ff9130c39487.png)
+![Image](https://github.com/user-attachments/assets/cc410073-7e3f-4e9c-ac78-1d8077effca3)
 
